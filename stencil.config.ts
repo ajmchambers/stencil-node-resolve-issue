@@ -14,6 +14,5 @@ export const config: Config = {
       baseUrl: 'https://myapp.local/',
     },
   ],
-  nodeResolve: { browser: true },
-  enableCache: false
+  nodeResolve: { browser: true }
 };
